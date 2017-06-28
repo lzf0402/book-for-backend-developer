@@ -54,7 +54,7 @@ $ npm install
 
 
 * 【注】
-前台系统在用户登录后，采用了nej的单页应用方式(https://github.com/genify/nej/blob/master/doc/DISPATCHER.md)[https://github.com/genify/nej/blob/master/doc/DISPATCHER.md]
+前台系统在用户登录后，采用了[nej的单页应用方式](https://github.com/genify/nej/blob/master/doc/DISPATCHER.md)
 其中page/main.js是单页应用的入口脚本，配置了路由关系
 各个功能模块在src/html目录下
 

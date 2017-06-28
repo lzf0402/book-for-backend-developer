@@ -1,7 +1,6 @@
 # 工程介绍 - distribute分销系统
 
-### [分销系统](
-http://distribution.kaola.com/distributionChannel/index)
+### [分销系统](http://distribution.kaola.com/distributionChannel/index)
 是个后台系统，以上为测试环境地址
 
 
